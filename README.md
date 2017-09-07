@@ -77,7 +77,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
         })
     }
     
-    ```
+```
 
 # Linkedin
 
@@ -86,6 +86,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 </a>
 
 # Licence
+
 ```
 Copyright 2017 Soussidev, Inc.
 
