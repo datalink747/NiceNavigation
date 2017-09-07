@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="menu_color_1">#e0e044</color>
+    <color name="menu_color_2">#FF5722</color>
+    <color name="menu_color_3">#3CCD88</color>
+    <color name="menu_color_4">#f44336</color>
+    <color name="menu_color_5">#795548</color>
+    <color name="menu_color_6">#30d1d5</color>
+    <color name="menu_color_7">#444153</color>
+    <color name="menu_color_8">#6d6d6d</color>
+    <color name="menu_color_9">#8e99e5</color>
+    <color name="menu_color_10">#55b03d</color>
+    <color name="md_selected">#14000000</color>
+
+
+
+</resources>
