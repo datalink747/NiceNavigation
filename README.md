@@ -1,8 +1,14 @@
-# NiceNavigation
+# NiceNavigation By Soussidev
 Nice navigation with animation
 
 
 [![](https://jitpack.io/v/datalink747/NiceNavigation.svg)](https://jitpack.io/#datalink747/NiceNavigation)
+<br>
+
+# Preview :
+* Nice Navigation :
+<img src="picture/nicenavigation.png" height="450" width="280">
+<br>
 
 
 # Linkedin
