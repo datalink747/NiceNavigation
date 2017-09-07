@@ -10,6 +10,13 @@ Nice navigation with animation
 <img src="picture/nicenavigation.png" height="450" width="280">
 <br>
 
+# Add dependencie to your project :
+
+```gradle
+dependencies {
+    compile 'com.github.datalink747:NiceNavigation:1.0'
+}
+```
 
 # Linkedin
 
