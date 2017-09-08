@@ -7,8 +7,9 @@ Nice navigation with animation
 
 # Preview :
 * Nice Navigation :
-<img src="picture/nicenavigation.png" height="450" width="280">&nbsp;
-&nbsp;<img src="picture/NiceNavigation.gif" height="450" width="580">&nbsp;
+
+<br>
+<img src="picture/NiceNavigation.gif" height="450" width="580">&nbsp;
 <br>
 
 # Add dependencie to your project :
