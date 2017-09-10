@@ -24,7 +24,7 @@ dependencies {
 
 * onCreate activity :
 
-```
+```java
 override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -66,7 +66,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
 ```
 * Fun get animation from Paper Flower :
 
-```
+```java
  fun getflower(view: View) {
         paperflower!!.paperflower(view, 450f, object : PaperFlowerListener {
             override fun onAnimationStart() {
