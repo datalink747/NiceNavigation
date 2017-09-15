@@ -17,6 +17,11 @@ Nice navigation with animation
 # Add dependencie to your project :
 
 ```gradle
+repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+}
+
 dependencies {
     compile 'com.github.datalink747:NiceNavigation:1.1'
 }
