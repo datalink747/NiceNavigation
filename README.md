@@ -94,11 +94,21 @@ override fun onCreate(savedInstanceState: Bundle?) {
 + Min sdk:<br>
 [![API](https://img.shields.io/badge/API-19%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
-# Linkedin
-
+# Social Media
+<table style="border:0px;">
+   <tr>
+      <td>
 <a href="https://www.linkedin.com/in/soussimohamed/">
 <img src="picture/linkedin.png" height="100" width="100" alt="Soussi Mohamed">
 </a>
+      </td>
+      <td>
+         <a href="https://twitter.com/soussimohamed7/">
+<img src="picture/Twitter.png" height="60" width="60" alt="Soussi Mohamed">
+</a>
+     </td>
+  </tr> 
+</table>  
 
 # Licence
 
