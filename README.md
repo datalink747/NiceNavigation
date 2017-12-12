@@ -5,6 +5,7 @@ Nice navigation with animation
 [![](https://jitpack.io/v/datalink747/NiceNavigation.svg)](https://jitpack.io/#datalink747/NiceNavigation)
 [![Ansible Role](https://img.shields.io/badge/Developer-Soussidev-yellow.svg)]()
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
+![API](https://img.shields.io/badge/Android%20Arsenal-NiceNavigation-green.svg?style=flat)
 <br>
 
 # Preview :
